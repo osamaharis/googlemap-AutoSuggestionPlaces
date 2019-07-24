@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Rider</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="places_api_key">AIzaSyC9ldnGJYYRftXY6QXipWqAZXYIsq1J5sI</string>
+</resources>
